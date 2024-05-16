@@ -22,7 +22,7 @@ const initTimer = maxTime => {
 
 
 const initGame = () => {
-    initTimer(45); //calling initTimer function with passing 30 as maxTime value
+    initTimer(30); //calling initTimer function with passing 30 as maxTime value
     let randomObj = words[Math.floor(Math.random() * words.length)]; // getting random object from words
     let wordArray = randomObj.word.split(""); // splitting each letter of random word
     for (let i = wordArray.length - 1; i > 0; i--) {
