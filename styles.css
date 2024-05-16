@@ -124,3 +124,94 @@ body {
     font-weight: 200;
     padding-left: 10px;
 }
+
+ /*============================================================================== 
+    iPhone 4 and 4S || 320 x 480 || Default, Portrait and Landscape
+================================================================================ */
+@media only screen and (min-width: 320px) 
+and (max-width: 480px){
+    .test-class{display: none !important; visibility: hidden !important;}
+}
+
+@media only screen and (min-width: 320px) 
+and (max-width: 480px) and (orientation: portrait) {
+    .test-class{display: none !important; visibility: hidden !important;}
+}
+
+@media only screen and (min-width: 320px) 
+and (max-width: 480px) and (orientation: landscape) {
+    .test-class{display: none !important; visibility: hidden !important;}
+}
+
+/*============================================================================== 
+iPhone 5, 5S, 5C and 5SE || 320 x 568 || Default, Portrait and Landscape
+================================================================================ */
+@media only screen and (min-width: 320px) 
+and (max-width: 568px){
+    .test-class{display: none !important; visibility: hidden !important;}
+}
+
+@media only screen and (min-width: 320px) 
+and (max-width: 568px) and (orientation: portrait) {
+    .test-class{display: none !important; visibility: hidden !important;}
+}
+
+@media only screen and (min-width: 320px) 
+and (max-width: 568px) and (orientation: landscape) {
+    .test-class{display: none !important; visibility: hidden !important;}
+}
+
+/*============================================================================== 
+iPhone 6, 6S, 7 and 8 || 375 x 667 || Default, Portrait and Landscape
+================================================================================ */
+@media only screen and (min-width: 375px) 
+and (max-width: 667px){ 
+    .test-class{display: none !important; visibility: hidden !important;}
+}
+
+@media only screen and (min-width: 375px) 
+and (max-width: 667px) and (orientation: portrait) { 
+    .test-class{display: none !important; visibility: hidden !important;}
+}
+
+@media only screen and (min-width: 375px) 
+and (max-width: 667px) and (orientation: landscape) { 
+    .test-class{display: none !important; visibility: hidden !important;}
+}
+
+/*============================================================================== 
+iPhone 6+, 7+ and 8+ || 414 x 736 || Default, Portrait and Landscape
+================================================================================ */
+@media only screen and (min-width: 414px) 
+and (max-width: 736px){ 
+    .test-class{display: none !important; visibility: hidden !important;}
+}
+
+@media only screen and (min-width: 414px) 
+and (max-width: 736px) and (orientation: portrait) { 
+    .test-class{display: none !important; visibility: hidden !important;}
+
+}
+
+@media only screen and (min-width: 414px) 
+and (max-width: 736px) and (orientation: landscape) { 
+    .test-class{display: none !important; visibility: hidden !important;}
+}
+
+/*============================================================================== 
+iPhone X || 375 x 812 || Default, Portrait and Landscape
+================================================================================ */
+@media only screen and (min-width: 375px) 
+and (max-width: 812px){ 
+    .test-class{display: none !important; visibility: hidden !important;}
+}
+
+@media only screen and (min-width: 375px) 
+and (max-width: 812px) and (orientation: portrait) { 
+    .test-class{display: none !important; visibility: hidden !important;}
+}
+
+@media only screen and (min-width: 375px) 
+and (max-width: 812px) and (orientation: landscape) { 
+    .test-class{display: none !important; visibility: hidden !important;}
+}
