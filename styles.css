@@ -189,6 +189,7 @@ body {
         font-family: "Reddit Sans Condensed";
         text-transform: lowercase;
         font-weight: 100;
+        font-size: 20px;
     }
     
     .content .buttons {
