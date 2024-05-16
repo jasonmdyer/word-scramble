@@ -1,15 +1,15 @@
 const words = [
         {
             word: "addition",
-            hint: "The process of adding numbers"
+            hint: "Process of adding numbers"
         },
         {
             word: "meeting",
-            hint: "Event in which people come together"
+            hint: "Event where people come together"
         },
         {
             word: "number",
-            hint: "Math symbol used for counting"
+            hint: "Math object used for counting"
         },
         {
             word: "exchange",
@@ -17,63 +17,63 @@ const words = [
         },
         {
             word: "canvas",
-            hint: "Piece of fabric for oil painting"
+            hint: "Fabric for oil painting"
         },
         {
             word: "garden",
-            hint: "Space for planting flower and plant"
+            hint: "Area for planting flowers"
         },
         {
             word: "position",
-            hint: "Location of someone or something"
+            hint: "Location of a person or place"
         },
         {
             word: "feather",
-            hint: "Hair like outer covering of bird"
+            hint: "Fringed plumes covering a bird"
         },
         {
             word: "comfort",
-            hint: "A pleasant feeling of relaxation"
+            hint: "Pleasant feeling of relaxation"
         },
         {
             word: "tongue",
-            hint: "The muscular organ of mouth"
+            hint: "Muscular organ of the mouth"
         },
         {
             word: "expansion",
-            hint: "The process of increase or grow"
+            hint: "Process of growth"
         },
         {
             word: "country",
-            hint: "A politically identified region"
+            hint: "Politically identified region"
         },
         {
             word: "group",
-            hint: "A number of objects or persons"
+            hint: "Number of objects or people"
         },
         {
             word: "taste",
-            hint: "Ability of tongue to detect flavour"
+            hint: "Ability to detect flavor"
         },
         {
             word: "store",
-            hint: "Large shop where goods are traded"
+            hint: "Shop where goods are traded"
         },
         {
             word: "field",
-            hint: "Area of land for farming activities"
+            hint: "Area of land for activities"
         },
         {
             word: "friend",
-            hint: "Person other than a family member"
+            hint: "Person other than family member"
         },
         {
             word: "pocket",
-            hint: "A bag for carrying small items"
+            hint: "Bag for carrying small items"
         },
         {
             word: "needle",
-            hint: "A thin and sharp metal pin"
+            hint: "Thin and sharp metal pin"
         },
         {
             word: "expert",
@@ -81,7 +81,7 @@ const words = [
         },
         {
             word: "statement",
-            hint: "A declaration of something"
+            hint: "Declaration of something"
         },
         {
             word: "second",
@@ -89,6 +89,6 @@ const words = [
         },
         {
             word: "library",
-            hint: "Place containing collection of books"
+            hint: "Place containing  books"
         },
 ]
