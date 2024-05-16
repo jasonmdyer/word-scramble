@@ -31,6 +31,7 @@ body {
     font-size: 50px;
     text-align: center;
     padding: 15px;
+    margin-top: 20px;
 }
 
 .container .content {
@@ -144,6 +145,7 @@ body {
         font-size: 30px;
         text-align: center;
         padding: 5px;
+        margin-top: 20px;
     }
     
     .container .content {
@@ -151,9 +153,9 @@ body {
     }
     
     .content .word {
-        font-size: 30px;
+        font-size: 20px;
         font-family: "Reddit Sans Condensed";
-        font-weight: 200;
+        font-weight: 300;
         text-align: center;
         text-transform: uppercase;
         letter-spacing: 25px;
