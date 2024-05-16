@@ -74,6 +74,7 @@ body {
     font-family: "Reddit Sans Condensed";
     text-transform: lowercase;
     font-weight: 100;
+    letter-spacing: 2px;
 }
 
 .content .buttons {
@@ -190,6 +191,7 @@ body {
         text-transform: lowercase;
         font-weight: 100;
         font-size: 20px;
+        letter-spacing: 2px;
     }
     
     .content .buttons {
