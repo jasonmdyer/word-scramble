@@ -1,1 +1,1 @@
-# word-scramble
+Word Scramble
