@@ -229,6 +229,8 @@ body {
         font-family: "Reddit Sans Condensed";
         font-weight: 200;
         padding-left: 10px;
+                font-size: 15px;
+
     }
     
     .time span {
