@@ -1,2 +1,2 @@
-<title>Word Scramble Game</title>
+Word Scramble Game
 https://jasonmdyer.github.io/word-scramble/
