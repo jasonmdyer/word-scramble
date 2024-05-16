@@ -83,10 +83,12 @@ body {
 
 .buttons button {
     border-radius: 10px;
+    font-size: 30px;
     border: none;
     outline: none;
     cursor: pointer;
-    width: calc(80% / 2 - 8px);
+    width: calc(60% / 2 - 8px);
+    height: 50px;
     color: rgb(255, 255, 255);
     transition: all .5s ease-in-out;
 }
