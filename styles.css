@@ -237,7 +237,7 @@ body {
     }
 }
 
-@media only screen and (width > 400px) {
+@media only screen and (width < 500px) {
     body {
         display: flex;
         align-items: center;
