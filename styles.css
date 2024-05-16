@@ -216,16 +216,6 @@ body {
         transition: all .5s ease-in-out;
     }
     
-    .refresh-word:hover {
-        box-shadow: 1px 1px 15px 1px rgba(23, 168, 108, 0.75);
-        transform: scale(1.1);
-    }
-    
-    .check-word:hover {
-        box-shadow: 1px 1px 15px 1px rgba(23, 168, 108, 0.75);
-        transform: scale(1.1);
-    }
-    
     .hint span{
         font-family: "Reddit Sans Condensed";
         font-weight: 200;
