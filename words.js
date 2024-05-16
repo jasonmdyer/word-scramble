@@ -1,15 +1,15 @@
 const words = [
         {
             word: "addition",
-            hint: "Process of adding numbers"
+            hint: "The process of adding numbers"
         },
         {
             word: "meeting",
-            hint: "Event where people come together"
+            hint: "Event in which people come together"
         },
         {
             word: "number",
-            hint: "Math object used for counting"
+            hint: "Math symbol used for counting"
         },
         {
             word: "exchange",
@@ -17,63 +17,63 @@ const words = [
         },
         {
             word: "canvas",
-            hint: "Fabric for oil painting"
+            hint: "Piece of fabric for oil painting"
         },
         {
             word: "garden",
-            hint: "Area for planting flowers"
+            hint: "Space for planting flower and plant"
         },
         {
             word: "position",
-            hint: "Location of a person or place"
+            hint: "Location of someone or something"
         },
         {
             word: "feather",
-            hint: "Fringed plumes covering a bird"
+            hint: "Hair like outer covering of bird"
         },
         {
             word: "comfort",
-            hint: "Pleasant feeling of relaxation"
+            hint: "A pleasant feeling of relaxation"
         },
         {
             word: "tongue",
-            hint: "Muscular organ of the mouth"
+            hint: "The muscular organ of mouth"
         },
         {
             word: "expansion",
-            hint: "Process of growth"
+            hint: "The process of increase or grow"
         },
         {
             word: "country",
-            hint: "Politically identified region"
+            hint: "A politically identified region"
         },
         {
             word: "group",
-            hint: "Number of objects or people"
+            hint: "A number of objects or persons"
         },
         {
             word: "taste",
-            hint: "Ability to detect flavor"
+            hint: "Ability of tongue to detect flavour"
         },
         {
             word: "store",
-            hint: "Shop where goods are traded"
+            hint: "Large shop where goods are traded"
         },
         {
             word: "field",
-            hint: "Area of land for activities"
+            hint: "Area of land for farming activities"
         },
         {
             word: "friend",
-            hint: "Person other than family member"
+            hint: "Person other than a family member"
         },
         {
             word: "pocket",
-            hint: "Bag for carrying small items"
+            hint: "A bag for carrying small items"
         },
         {
             word: "needle",
-            hint: "Thin and sharp metal pin"
+            hint: "A thin and sharp metal pin"
         },
         {
             word: "expert",
@@ -81,7 +81,7 @@ const words = [
         },
         {
             word: "statement",
-            hint: "Declaration of something"
+            hint: "A declaration of something"
         },
         {
             word: "second",
@@ -89,6 +89,122 @@ const words = [
         },
         {
             word: "library",
-            hint: "Place containing  books"
+            hint: "Place containing collection of books"
+        },
+        {
+            word: "evident",
+            hint: "Clearly revealed to the mind or senses"
+        },
+        {
+            word: "intend",
+            hint: "Have in mind as a purpose"
+        },
+        {
+            word: "approach",
+            hint: "To move towards"
+        },
+        {
+            word: "establish",
+            hint: "To set up or found"
+        },
+        {
+            word: "policy",
+            hint: "Plan of action adopted by group"
+        },
+        {
+            word: "appoint",
+            hint: "Assign a duty or repsonsibility to"
+        },
+        {
+            word: "coast",
+            hint: "The shore of a sea or ocean"
+        },
+        {
+            word: "constant",
+            hint: "Quantity the does not vary"
+        },
+        {
+            word: "affect",
+            hint: "To have influence upon"
+        },
+        {
+            word: "appeal",
+            hint: "To be attracted to"
+        },
+        {
+            word: "generate",
+            hint: "Bring into existence"
+        },
+        {
+            word: "range",
+            hint: "Variety of different things"
+        },
+        {
+            word: "confer",
+            hint: "Meeting in order to talk something over"
+        },
+        {
+            word: "reflect",
+            hint: "Show an image of"
+        },
+        {
+            word: "compel",
+            hint: "To force someone to do something"
+        },
+        {
+            word: "merit",
+            hint: "Any admirable attribute"
+        },
+        {
+            word: "persist",
+            hint: "Continue to exist"
+        },
+        {
+            word: "plead",
+            hint: "Enter a defendant's answer"
+        },
+        {
+            word: "evident",
+            hint: "Clearly revealed to the mind or senses"
+        },
+        {
+            word: "knoll",
+            hint: "Small hill or mound"
+        },
+        {
+            word: "terse",
+            hint: "Using few words or abrupt"
+        },
+        {
+            word: "uncanny",
+            hint: "Strange or mysterious"
+        },
+        {
+            word: "zilch",
+            hint: "Nil"
+        },
+        {
+            word: "mendacious",
+            hint: "Dishonesty, lying"
+        },
+        {
+            word: "clause",
+            hint: "Statement in a contract"
+        },
+        {
+            word: "feral",
+            hint: "Wild"
+        },
+        {
+            word: "ailment",
+            hint: "Sick or ill"
+        },
+        {
+            word: "cargo",
+            hint: "Goods being carried"
+        },
+        {
+            word: "rectify",
+            hint: "To correct something"
         },
 ]
