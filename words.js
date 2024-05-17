@@ -207,4 +207,56 @@ const words = [
             word: "rectify",
             hint: "To correct something"
         },
+        {
+            word: "bolt",
+            hint: "To run away"
+        },
+        {
+            word: "assent",
+            hint: "Agree or express agreement"
+        },
+        {
+            word: "sanction",
+            hint: "Give authority or permission to"
+        },
+        {
+            word: "exalt",
+            hint: "Praise, glorify, or honor"
+        },
+        {
+            word: "malice",
+            hint: "The desire to see others suffer"
+        },
+        {
+            word: "brook",
+            hint: "Stream of water smaller than a river"
+        },
+        {
+            word: "satire",
+            hint: "Witty language used to convey insults"
+        },
+        {
+            word: "cower",
+            hint: "Crouch or curl up"
+        },
+        {
+            word: "vacate",
+            hint: "To move out of"
+        },
+        {
+            word: "slay",
+            hint: "To kill intentionally"
+        },
+        {
+            word: "beseech",
+            hint: "Ask for or request earnestly"
+        },
+        {
+            word: "fathom",
+            hint: "Come to understand"
+        },
+        {
+            word: "faction",
+            hint: "A dissenting clique"
+        },
 ]
